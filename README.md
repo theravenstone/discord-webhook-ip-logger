@@ -14,6 +14,9 @@ $url = "YOUR WEBHOOK URL";
 - Upload the index.php file to your server
 - Open the IP/URL of your server in a browser
 
+## Free Hosting
+You can host the php file on https://000webhost.com for free
+
 ## Disclaimer
 The user github.com/theravenstone is not responsible for the use of this code!
 
