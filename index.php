@@ -1,5 +1,7 @@
-<?php
+// Discord IP Logger by https://github.com/theravenstone
+// The user github.com/theravenstone is not responsible for the use of this code!
 
+<?php
 if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
     $ip = $_SERVER['HTTP_CLIENT_IP'];
 } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
