@@ -4,7 +4,7 @@ This IP Logger is written in PHP.
 
 ## Config
 
-Change the code below to your discord webhook url
+Change the code below in the index.php file to your discord webhook url.
 ```php
 $url = "YOUR WEBHOOK URL";
 ```
